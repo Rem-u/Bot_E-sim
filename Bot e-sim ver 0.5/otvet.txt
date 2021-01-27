@@ -1,0 +1,25 @@
+
+
+
+
+
+<div>
+    
+        
+        
+            <div style="width:220px;" class="testDivred"><img src="https://cdn.e-sim.org//img/delete.png" style="float: left"/>
+
+                No health left
+                <br>
+                
+            <p style="clear: both"></p> <br/> </div>
+
+        
+    
+    
+    <script type="text/javascript">
+        $(".help[title]").tooltip();
+        $(".smallhelp[title]").tooltip({tipClass: "smalltooltip"});
+    </script>	
+</div>
+
